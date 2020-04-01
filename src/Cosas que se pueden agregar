@@ -1,0 +1,5 @@
+Mostrar saldos del usuario, sobre todo del evotoken
+
+Botón de refresh, o ver cómo se diseña:
+quizás ante cualquier cambio, mando a refresh, que calcula todo.
+Tengo problemas con las cosas que son async.
